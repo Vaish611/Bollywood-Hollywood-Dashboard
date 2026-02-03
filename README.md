@@ -18,28 +18,22 @@ I started the project by understanding the dataset and identifying key columns r
 ## Project Insights
 From this dashboard, I was able to identify clear trends and patterns in the data. Certain categories and regions were consistently performing better, while some showed a decline and needed attention. The analysis also revealed seasonal patterns and key contributors to overall performance. These insights can help stakeholders focus on high-performing areas and take action on weak segments.
 
-## Dashboard
 ## Hollywood vs Bollywood Dashboard
 
 ### Bollywood Dashboards
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="<img width="1437" height="807" alt="Bollywood" src="https://github.com/user-attachments/assets/9b494dc5-5e04-4c10-9ee4-31a7372d048c" />
-" width="300"/>
-   <img src="<img width="1440" height="806" alt="Amazon_Prime" src="https://github.com/user-attachments/assets/ad203dba-6f50-4435-b05d-dfb06f07fa4a" />
-" width="300"/>
-  <img src="<img width="1433" height="805" alt="Hotstar" src="https://github.com/user-attachments/assets/60615c95-cbe1-4e17-99b6-a41d9c420c57" />
-" width="300"/>
-  <img src="<img width="1437" height="807" alt="Netflix" src="https://github.com/user-attachments/assets/0df8b821-6893-4942-866e-847f725da0b5" />
-" width="300"/>
+  <img src="https://github.com/user-attachments/assets/9b494dc5-5e04-4c10-9ee4-31a7372d048c" width="300" alt="Bollywood"/>
+  <img src="https://github.com/user-attachments/assets/ad203dba-6f50-4435-b05d-dfb06f07fa4a" width="300" alt="Amazon_Prime"/>
+  <img src="https://github.com/user-attachments/assets/60615c95-cbe1-4e17-99b6-a41d9c420c57" width="300" alt="Hotstar"/>
+  <img src="https://github.com/user-attachments/assets/0df8b821-6893-4942-866e-847f725da0b5" width="300" alt="Netflix"/>
 </div>
 
 ### Hollywood Dashboards
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="<img width="1439" height="809" alt="Hollywood" src="https://github.com/user-attachments/assets/d3b0169a-8058-4ad4-b3d8-836c1e5f4bce" />
-" width="300"/>
-  <img src="<img width="1440" height="807" alt="Apple_Tv" src="https://github.com/user-attachments/assets/d7f1c7c4-897d-430e-a5c1-685df0a414b6" />
-" width="300"/>
+  <img src="https://github.com/user-attachments/assets/d3b0169a-8058-4ad4-b3d8-836c1e5f4bce" width="300" alt="Hollywood"/>
+  <img src="https://github.com/user-attachments/assets/d7f1c7c4-897d-430e-a5c1-685df0a414b6" width="300" alt="Apple_Tv"/>
 </div>
+
 
 
 
