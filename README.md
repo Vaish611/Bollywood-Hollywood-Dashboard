@@ -34,6 +34,18 @@ From this dashboard, I was able to identify clear trends and patterns in the dat
   <img src="https://github.com/user-attachments/assets/d7f1c7c4-897d-430e-a5c1-685df0a414b6" width="300" alt="Apple_Tv"/>
 </div>
 
+## Dataset Links
+
+Access all datasets for the Bollywood-Hollywood Dashboard here:
+
+- [Final Bollywood CSV](https://github.com/Vaish611/Bollywood-Hollywood-Dashboard/blob/main/Final%20Bollywood.csv)
+- [Final Hollywood CSV](https://github.com/Vaish611/Bollywood-Hollywood-Dashboard/blob/main/Final%20Hollywood.csv)
+- [Netflix CSV](https://github.com/Vaish611/Bollywood-Hollywood-Dashboard/blob/main/Netflix.csv)
+- [Amazon Prime CSV](https://github.com/Vaish611/Bollywood-Hollywood-Dashboard/blob/main/amazon_prime_titles.csv)
+- [Apple TV CSV](https://github.com/Vaish611/Bollywood-Hollywood-Dashboard/blob/main/apple.csv)
+- [Hotstar CSV](https://github.com/Vaish611/Bollywood-Hollywood-Dashboard/blob/main/hotstar.csv)
+
+
 
 
 
